@@ -18,6 +18,7 @@ import java.util.Scanner;
  * 
  */
 
+// THANK GOD IT COMMITED AND PUSHED d
 public class FiniteStateMachineSystem {
 
 	/**********
